@@ -2,7 +2,7 @@
 # https://github.com/Damnever/pigar
 
 
-APScheduler == 3.3.1
-Django == 1.11.3
-pymongo == 3.5.1
-requests == 2.13.0
+APScheduler==3.3.1
+Django==1.11.3
+pymongo==3.5.1
+requests==2.13.0
